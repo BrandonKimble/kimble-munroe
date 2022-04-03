@@ -4,7 +4,7 @@ For the final project (outlined in file "final_project_report.pdf"), my parnter 
 
 Overall, this repo encompasses all I have acchomplished while attending a database course at UT. Throughout the course I had the pleasure of working with a variety of database technologies and data science tools: MySQL, Postgres, BigQuery, Firestore, MongoDB, Neo4j, Jupyter Notebooks, and Data Studio. First we start with the basic CRUD operations and moved on to more advanced capabilities. I liked working with PostgreSQL and decided to conduct further tests for the courses final project. 
 
-### Contraints
+### Constraints
 
 There are better ways to improve database performance. But, I'm still learning and will dive deeper into database technologies at a future time.
 
